@@ -1,0 +1,7 @@
+States	Capitals	Population
+Abia	   Umuahia	 508529
+Enugu	   Enugu  	 193551
+Imo	     Owerri	   32315
+Kaduna	 Kaduna	   619968
+Plateau	 Jos	      52555
+Ebonyi	 Abakalikki	227032
